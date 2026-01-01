@@ -1,0 +1,5 @@
+{
+  "name": "Abacus Sheets",
+  "description": "A high-performance, AI-integrated spreadsheet application featuring complex formula evaluation, real-time updates, and a Gemini-powered assistant for data analysis and automation.",
+  "requestFramePermissions": []
+}
